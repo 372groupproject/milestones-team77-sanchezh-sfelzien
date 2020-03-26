@@ -1,0 +1,8 @@
+1. N/A
+2. https://www.scala-lang.org/
+3. https://docs.scala-lang.org/
+4. https://docs.scala-lang.org/overviews/scala-book/prelude-taste-of-scala.html
+5. https://www.scala-lang.org/community/
+6. https://github.com/daenyth/taklib
+7. http://scala-ide.org/
+
