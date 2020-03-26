@@ -7,8 +7,8 @@ object HelloWorld {
     val bools = Seq(true, false)
     for (bool <- bools) {
       bool match {
-        case true => println("heads, baby!")
         case false => println("tails, son!")
+        case true => println("heads, baby!")
       }
     }
   }

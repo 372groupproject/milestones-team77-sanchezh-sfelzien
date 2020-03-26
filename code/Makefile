@@ -1,3 +1,3 @@
-make: Helloworld.scala
-	scalac Helloworld.scala
-	scala Helloworld.scala
+make: HelloWorld.scala
+	scalac HelloWorld.scala
+	scala HelloWorld.scala
