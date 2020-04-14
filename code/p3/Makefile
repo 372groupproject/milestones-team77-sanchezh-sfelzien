@@ -1,7 +1,7 @@
 make: Byte.scala Short.scala Int.scala Long.scala Float.scala Double.scala Char.scala String.scala Bool.scala Unit.scala Null.scala Nothing.scala Any.scala IntError.scala
- 	scalac Byte.scala 
+	scalac Byte.scala 
 	scalac Short.scala
-        scalac Int.scala
+	scalac Int.scala
 	scalac Long.scala
 	scalac Float.scala
 	scalac Double.scala
@@ -13,4 +13,3 @@ make: Byte.scala Short.scala Int.scala Long.scala Float.scala Double.scala Char.
 	scalac Nothing.scala
 	scalac Any.scala
 	scalac IntError.scala
-	scala Byte.scala
