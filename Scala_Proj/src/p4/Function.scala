@@ -1,6 +1,6 @@
 package p4
 
-class function {
+object Function {
   def main(args: Array[String]) {
     var a = 5;
     var b = 6;
